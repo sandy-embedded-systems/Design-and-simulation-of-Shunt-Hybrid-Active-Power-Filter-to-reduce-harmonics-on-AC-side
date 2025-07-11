@@ -22,7 +22,9 @@
 **Objectives**
   
   a.The objectives and functions of active power filters have expanded from reactive power compentation, voltage regulation, etc. to harmonic isolation between utilities and consumers,and harmonic damping throughtout the distribution as harmonics propagate through the system.
+  
   b.Active power filters are either installed at the individual consumer premisis or at substation and/or on distribution feeders.
+  
   c.Depending on the compansation objectives , various types of active power filter topologies have evolved. 
   
 **Simulation Software:**   MATLAB/Simulink (2009a version required)
