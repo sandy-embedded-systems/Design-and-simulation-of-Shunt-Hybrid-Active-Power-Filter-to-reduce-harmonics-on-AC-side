@@ -1,0 +1,8 @@
+This paper presents D-Q Synchronous Reference Frame (SRF) current control method in order to generate the required reference current for 3-phase 4-wire shunt hybrid
+active power filter (SHAPF) to solve harmonics problem in power system network. Here, the passive elements of SHAPF have been used for compensation of reactive 
+power and to eliminate the lower order harmonics and the active part have been used for the higher order harmonics. A modified phase lock loop (PLL) has been used 
+to handle the double frequency element of non-ideal voltages. All the simulation for achieving the goal have been conducted in MATLAB/SIMULINK environment for ideal 
+and unbalanced mains voltage conditions. From the simulation results it has been seen that the implementation of proposed D-Q SRF based SHAPF resulted in reduced THD 
+in the power system network both in balanced and unbalanced conditions.
+
+Keywords: Phase Lock Loop, PI controller, SRF, THD, SHAPF.
