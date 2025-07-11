@@ -1,0 +1,8 @@
+* Follow the steps:
+1. Download MATLAB/Simulink with 2009a version.
+2. Download shunthybrid.mdl file .
+3. Opne MATLAB and open the .mdl file
+4. Run/simulate the model
+5. You can observe the scope views in outputs.double clock on outputs you see the scopes
+6. Double clock on controller to see the controlling simulation model for the project.
+7. Learn in detail about each component of project and its role in it.
